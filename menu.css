@@ -1,0 +1,22 @@
+#menu {
+	left: -110px;
+	top: 50px;
+	width: 100px;
+	padding: 5px;
+	background-color: cyan;
+	position: fixed;
+}
+.btn {
+	width: 100%;
+}
+.openClose {
+	width: 50px;
+	right: -50px;
+	position: absolute;
+}
+#open {
+	top: 0px;
+}
+#close {
+	bottom: 0px;
+}
